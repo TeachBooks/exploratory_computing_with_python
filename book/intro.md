@@ -33,11 +33,9 @@ Notebook 11: Distribution of the Mean and Hypothesis Tests Theorem $-$ [Video (P
 
 Notebook 12: Object oriented programming $-$ [Video (Python 2)](https://youtu.be/pNLAEDbK03s)
 
-Notebook 13: Regression I $-$ [Video]
+Notebook 13: Regression I
 
-Test Notebooks 1-4 $-$ [Video]
-
-Notebo
+Test Notebooks 1-4
 
 ## Interactive Jupyter Notebooks
 
