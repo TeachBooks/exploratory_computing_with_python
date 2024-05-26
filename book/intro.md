@@ -35,7 +35,7 @@ Notebook 12: Object oriented programming $-$ [Video (Python 2)](https://youtu.be
 
 Notebook 13: Regression I
 
-Test Notebooks 1-4
+Test 1: For Notebooks 1-4
 
 ## Interactive Jupyter Notebooks
 
