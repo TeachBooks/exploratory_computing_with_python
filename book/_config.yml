@@ -1,5 +1,5 @@
 title: Exploratory Computing
-author: Mark Bakkers
+author: Mark Bakker
 logo: figures/TUDelft_logo_rgb.png 
 
 execute:
@@ -9,7 +9,7 @@ only_build_toc_files: true
 
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/template/" #Replace this with your own URL
+  baseurl :  "https://teachbooks.github.io/exploratory_computing_with_python/" #Replace this with your own URL
   home_page_in_navbar       : true
 
 sphinx:
@@ -20,7 +20,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "https://github.com/TeachBooks/template" #add your own repo URL here
+      repository_url: "https://github.com/TeachBooks/exploratory_computing_with_python" #add your own repo URL here
       use_repository_button: true
       use_issues_button : true
       launch_buttons:
@@ -31,5 +31,5 @@ sphinx:
     
     - jupyterbook_patches
 
-bibtex_bibfiles: 
-  - references.bib
+# bibtex_bibfiles: 
+#   - references.bib
